@@ -4,7 +4,7 @@ Esse projeto é um blog sobre Desenvolvimento de Software. Não foram utilizados
 
 ## Description
 
-No início os artigos tinham foco em Desenvolvimento ServiceNow. É possível que surjam outros assuntos como ASP .NET Core, Entity Framework ou Azure.
+Artigos com foco em Desenvolvimento ServiceNow. 
 
 ## Iniciando
 
