@@ -42,35 +42,8 @@ require_once("menu.php");
                      <br>
 
 
-                    <a href="car_app_1.php" target="_self">Car Insurance App - Part 1</a> 
+                    <a href="lab_car_app_1.php" target="_self">Car Insurance App - Part 1</a> 
                     <br>Creating custom Apps, defining Personas and the database infrastructure
-                    <br>
-                    <br>
-
-                    <a href="car_app_2.php" target="_self">Car Insurance App - Part 2</a>
-                    <br>The Kanban board workflow and User Stories
-                    <br>
-                    <br>
-                    
-                    <a href="car_app_3.php" target="_self">Car Insurance App - Part 3</a>
-                    <br>Exploring user interfaces
-                    <br>
-                    <br>
-
-                    <a href="car_app_4.php" target="_self">Car Insurance App - Part 4</a>
-                    <br>Software Maintenance is a broad activity
-                    <br>
-                    <br>
-                    
-                    <a href="car_app_5.php" target="_self">Car Insurance App - Part 5</a>
-                    &nbsp;<span class="icofont-video-alt"></span>
-                    <br>Step by step demo: Creating a new Application
-                    <br>
-                    <br>
-
-                    <a href="car_app_6.php" target="_self">Car Insurance App - Part 6</a>
-                    &nbsp;<span class="icofont-video-alt"></span>
-                    <br>Step by step demo: Creating the application menu and modules
                     <br>
                     <br>
 

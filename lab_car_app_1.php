@@ -121,7 +121,7 @@ require_once("funcoes.php");
 
                 <p>
                 <br>
-                <br><br><a href="index.php?p=4" target="_self">Back</a>
+                <br><br><a href="lab.php?p=1" target="_self">Back</a>
                 </p>
 
 

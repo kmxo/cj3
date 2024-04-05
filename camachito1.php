@@ -27,7 +27,7 @@ require_once("funcoes.php");
 <main class="content">
     
         <div class="content text-content content-wrap">
-
+ 
             <?php renderTitle('Demo Lab to acquire Camachito One', "A dedicated MID Server for our research projects - <i>April 1, 2024</i>"); ?>
 
             
