@@ -28,6 +28,10 @@ localhost/cj3
 
 ## Histórico de Versão
 
+* 1.0
+    * Menu do blog adicionado a banco de dados MySql
+    * No seu arquivo config.php defina as variáveis $host, $db, $user e $password
+    * Para criar a tabela e os registros, utilize o sql existente em assets / database
 * 0.2
     * Adicionado o link para o LinkedIn
 * 0.1
