@@ -28,7 +28,7 @@ require_once("funcoes.php");
     
         <div class="content text-content content-wrap">
 
-            <?php renderTitle('Car Insurance App - Part 1', 'Creating custom Apps, defining Personas and the database infrastructure'); ?>
+            <?php renderTitle('Car Insurance App - Part 1', 'Creating custom Apps, defining Personas and the database infrastructure - <i>May 5, 2024</i>'); ?>
 
             
                 
