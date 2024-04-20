@@ -6,7 +6,7 @@ require_once("funcoes.php");
 ?>
 <style>
     .div-clark {
-        background-color: #EBEBEB;
+        background-color: #E6F9E7;
         border: 3px solid grey;
         border-radius: 5px;
         border-style: inset;
@@ -42,16 +42,24 @@ require_once("funcoes.php");
 
                     <div class="div-clark">
                         
-                       <img class="img-clark" src="assets/image/81_camacho.png" alt="Carlos Camacho" title="Carlos Camacho">
+                       <img class="img-clark" src="assets/image/camacho.jpg" alt="Carlos Camacho" title="Carlos Camacho">
                        <p><br>
-                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi! I'm Carlos Camacho. I have been working with ServiceNow since 2021, mostly on App Engine developing Custom Applications. 
+                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi! 
+                           <br>
+                           <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Carlos Camacho. I have been working with ServiceNow since 2021, mostly on App Engine developing Custom Applications. 
+                           <br>
                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hold a Master&apos;s Degree in Computer Science and I have both technical as well as communicative skills. 
+                           <br>   
                            </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Passionate about education, I'm an author of books about software development. 
+                           <br>   
                            </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was nominated a ServiceNow MVP, and in this blog I love to share knowledge about ServiceNow and related technologies.
+                           <br>
                            </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope you enjoy and find some value in the content published here. 
                            <br>
                            <br>
                            <br>
+                           <br>
+
                         </p>
                     </div>
                     
